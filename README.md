@@ -1,2 +1,2 @@
 # Simple-Calculator
-Simple calculator  done with Javaa
+Simple calculator project written using HTML CSS and JavaScript

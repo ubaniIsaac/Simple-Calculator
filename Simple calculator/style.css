@@ -10,11 +10,11 @@
     color: whitesmoke;
     height: 40px;
     font-size: xx-large;
-    width: initial;
+    width: auto;
 }
 
 .calculator__keys {
-    width: 1000%;
+    width: 100%;
     justify-items: space-evenly;
 }
 
